@@ -9,7 +9,10 @@
   The circuit:
     - +V connection of the PING))) attached to +5V
     - GND connection of the PING))) attached to ground
-    - SIG connection of the PING))) attached to digital pin 7
+    - SIG connection of the PING))) attached to digital pin 5
+    - Red LED attached to digital pin 4
+    - Yellow LED attached to digital pin 3
+    - Green LED attached to digital pin 2
 
   created 3 Nov 2008
   by David A. Mellis
